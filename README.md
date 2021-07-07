@@ -138,7 +138,6 @@ this would ultimately render:
 
 ```html
 <div>
-x
   <div>
     Dear Reader: Bjarne Stroustrup has the perfect lecture oration.
   </div>
