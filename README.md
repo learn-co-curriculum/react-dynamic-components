@@ -159,7 +159,7 @@ x
 ```
 
 ...but seeing is believing so let's look at this in technicolor! Following is an
-inspection of the L and _real live DOM elements_ that React rendered when we
+inspection of the HTML and _real live DOM elements_ that React rendered when we
 blasted this code into a new application (classes, IDs, and minor CSS have been
 added for a better visual display):
 
